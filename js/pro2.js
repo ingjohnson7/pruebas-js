@@ -4,9 +4,7 @@
  * and open the template in the editor.
  */
 
-var master = new Vue({
-    el: '#main',
-    data: {
-        name: 'Fardo'
-    }
+
+document.addEventListener('DOMContentLoaded', function(){
+    console.log('Estoy listo');
 });

@@ -14,21 +14,20 @@
 
     </head>
     <body>
-        <div class="container">
+        <div id="main" class="container">
         
         <h1>Probando con vue</h1>
         
         <button id="btnEnviar" class="btn btn-default">Enviar</button>
         
-        </div>
+        <br><br><br>
+        <b>{{ name }}</b>
         
         
-        
-        
-        
+        </div>           
     </body>
 
 <!-- Program ---->
-<script src="js/pro1.js"></script>   
-    
+<script src="js/pro2.js"></script>   
+<script src="js/vueProgram.js"></script>     
 </html>
