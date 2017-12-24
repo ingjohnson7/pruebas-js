@@ -16,5 +16,7 @@
     
     <script>
         
+        console.log(Object.prototype);
+        
     </script>
 </html>
